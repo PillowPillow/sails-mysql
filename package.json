@@ -1,6 +1,6 @@
 {
   "name": "sails-mysql-pillow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fork of sails-mysql adapter - stream friendly",
   "main": "lib/adapter.js",
   "scripts": {
