@@ -9,3 +9,4 @@ nbproject
 .waterline
 npm-debug.log
 .c9
+*.iml
